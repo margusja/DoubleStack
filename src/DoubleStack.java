@@ -1,3 +1,7 @@
+/*
+ * Author Margus Roo <Margus@roo.ee>
+ */
+
 import java.util.*;
 
 public class DoubleStack {
